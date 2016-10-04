@@ -45,6 +45,7 @@
     <Compile Include="View\SpeakersPage.xaml.cs">
       <DependentUpon>SpeakersPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Azure.Mobile, Version=1.0.6037.18235, Culture=neutral, processorArchitecture=MSIL">

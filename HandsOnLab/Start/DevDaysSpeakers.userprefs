@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{367B4F1E-C7D4-432C-B767-59121E12C2BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevDaysSpeakers/DevDaysSpeakers/ViewModel/SpeakersViewModel.cs">
+    <Files>
+      <File FileName="DevDaysSpeakers/DevDaysSpeakers/Model/Speaker.cs" Line="18" Column="1" />
+      <File FileName="DevDaysSpeakers/DevDaysSpeakers/ViewModel/SpeakersViewModel.cs" Line="43" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevDaysSpeakers" expanded="True">
+            <Node name="DevDaysSpeakers" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="SpeakersViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DevDaysSpeakers.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DevDaysSpeakers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3C0DC0BD-B472-43F0-B016-B6BFDA5FD6C5" />
+  <DisabledProjects>
+    <String>DevDaysSpeakers/DevDaysSpeakers.UWP/DevDaysSpeakers.UWP.csproj</String>
+  </DisabledProjects>
+</Properties>
